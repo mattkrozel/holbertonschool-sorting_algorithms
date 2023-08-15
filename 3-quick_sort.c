@@ -2,7 +2,7 @@
 #include <stdlib.h>
 void sort(int *array, size_t begin, size_t size, size_t);
 int check(int *array, size_t begin, size_t end);
-int swap(int *, size_t, size_t);
+int swap(int *, size_t, size_t, size_t);
 
 /**
  * quick_sort - sorts array of ints
